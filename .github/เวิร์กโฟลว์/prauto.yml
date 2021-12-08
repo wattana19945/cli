@@ -1,4 +1,4 @@
-name: PR Automation
+name: นะ น้อย
 on:
   pull_request:
     types: [ready_for_review, opened, reopened]
